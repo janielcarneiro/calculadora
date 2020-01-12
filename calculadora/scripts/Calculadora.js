@@ -1,0 +1,1 @@
+var Calculadora = new ControlerCalculadora();
